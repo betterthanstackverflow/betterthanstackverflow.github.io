@@ -75220,7 +75220,7 @@ k=A.dI(new A.bm(p))
 k=J.a5(k.gcm(k).a.c,"displayName")
 k.toString
 s=4
-return A.H(n.D(0,A.ah(["likeCounter",0,"title",o,"text",l,"creator",k],t.N,t.K)).bt(0,new A.akd(q.b),t.P),$async$$0)
+return A.H(n.D(0,A.ah(["likeCounter",0,"likedBy",[],"title",o,"text",l,"creator",k],t.N,t.K)).bt(0,new A.akd(q.b),t.P),$async$$0)
 case 4:case 3:return A.O(null,r)}})
 return A.P($async$$0,r)},
 $S:20}
